@@ -1,5 +1,6 @@
 # Learning to Write on Dirty Paper
 
+- Colab Notebook for "Learning to Write on Dirty Paper" to appear at ITW2025
 
 ## Abstract
 
