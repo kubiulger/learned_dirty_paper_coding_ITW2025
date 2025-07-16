@@ -1,4 +1,4 @@
-# learned_dirty_paper_coding_ITW2025
+# Learning to Write on Dirty Paper
 
 
 ## Abstract
